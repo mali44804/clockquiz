@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(45deg, #2003fc, #8670ff);
+}
+.clock {
+    font-family: "Arial", sans-serif;
+    font-size: 48px;
+    text-align: center;
+    margin-top: 200px;
+}
+#time{
+    width: 300px;
+    height: 60px;
+    align-items: center;
+    text-align: center;
+    display: inline-block;
+    background-color: aqua;
+    border-radius: 10px;
+}
